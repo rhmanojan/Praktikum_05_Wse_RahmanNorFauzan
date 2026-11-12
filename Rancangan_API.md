@@ -1,5 +1,7 @@
 # Rancangan Desain Endpoint dan Kontrak API Katalog Perpustakaan
 **Mata Kuliah**: Web Service Engineering  
+**Nama**: Rahman Nor Fauzan  
+**NIM**: 240104040145  
 **Studi Kasus**: Layanan Katalog Buku Perpustakaan Kampus  
 **Dosen Pengampu**: Muhayat, M.IT  
 

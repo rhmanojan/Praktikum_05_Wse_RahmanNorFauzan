@@ -2,6 +2,8 @@
 ## Desain Endpoint dan Implementasi Web Service dengan Framework
 
 - **Mata Kuliah**: Web Service Engineering
+- **Nama**: Rahman Nor Fauzan
+- **NIM**: 240104040145
 - **Dosen Pengampu**: Muhayat, M.IT
 - **Studi Kasus**: Layanan Katalog Buku Perpustakaan Kampus
 - **Tanggal Praktikum**: 11 November 2026
